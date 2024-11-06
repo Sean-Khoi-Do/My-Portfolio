@@ -6,6 +6,12 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Power Bi](#power-bi)
 
+# Excel
+
+| Project Link | Area of Analysis | Project Description | 
+|---|---|---|
+***
+
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
